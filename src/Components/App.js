@@ -4,8 +4,8 @@ import Footer from "./Footer";
 import Drum from "./Drum";
 function App() {
     return <div>
-        <Header />
         <Drum />
+        <Header />
         <Footer />
     </div>
 }
